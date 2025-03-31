@@ -7,7 +7,7 @@ The CSV files used in this project have been **manually compressed** into zip fi
 Make sure to **extract** the zip files to access the raw CSV data.
 
 ## Part B: Web UI
-We developed a **Streamlit** web dashboard to display the findings. Users can explore crime trends on the map and view the severity levels of different crimes.
+I developed a **Streamlit** web dashboard to display the findings. Users can explore crime trends on the map and view the severity levels of different crimes.
 
 ## Running Streamlit
 1. Install **Streamlit**, and **Plotly** (for heatmap visualization):
@@ -18,7 +18,7 @@ Run the app:
 
 streamlit run app.py
 
-#BOUNS
+# BOUNS
 ## Prerequisites
 
 - **Docker**: Install Docker from [docker.com](https://www.docker.com/products/docker-desktop).
